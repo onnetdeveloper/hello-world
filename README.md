@@ -1,3 +1,3 @@
 # hello-world
-# treinamento de GitHub
-# onnetdeveloper
+treinamento de GitHub
+onnetdeveloper
